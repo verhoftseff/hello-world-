@@ -1,2 +1,8 @@
 TITLE (my second commit)
 Hello world
+
+Abstract
+It's a long story but some text is gone forever.
+
+Chapter 1
+Does life make sense after a reset? 
